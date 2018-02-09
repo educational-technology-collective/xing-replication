@@ -2,4 +2,7 @@
 *.tgz
 *.pyc
 __pycache__
+*.Rdata
+*.Rhistory
+*.history
 
