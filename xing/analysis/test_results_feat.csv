@@ -1,0 +1,10 @@
+"feat1","feat2","model","z","p.value"
+"appended","only","tree",9.7,0
+"appended","only","bn",-32.4,0
+"appended","only","ensemble",9.8,0
+"appended","sum","tree",100.2,0
+"appended","sum","bn",32,0
+"appended","sum","ensemble",95.5,0
+"sum","only","tree",-90.2,0
+"sum","only","bn",-64.7,0
+"sum","only","ensemble",-85.5,0

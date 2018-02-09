@@ -1,0 +1,7 @@
+"mod1","mod2","feat_type","z","p.value"
+"ensemble","bn","appended",15.7,0
+"ensemble","bn","sum",-47.2,0
+"ensemble","bn","only",-26.5,0
+"ensemble","tree","appended",-2.3,0.0227
+"ensemble","tree","sum",2.7,0.0073
+"ensemble","tree","only",-2.4,0.0186
