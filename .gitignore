@@ -1,0 +1,5 @@
+*.tar
+*.tgz
+*.pyc
+__pycache__
+
